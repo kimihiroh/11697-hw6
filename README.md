@@ -146,13 +146,12 @@ HW2, HW5
 You can explore any part of this assignment based on your interest. Just as a starting point, we share some possible ideas below:
 
 ### Possible ideas
-* Performance analysis   
+* Extensive analysis   
   * Why models with RAG do not work: Retriever? Generator? Format? Eval Metrics? etc…  
-  * Visualization  
-* Ablation study on each part  
   * Include noisy evidence to see how good your retriever is.  
   * More eval metrics & calibration of eval metrics (eg, IAA with human evaluation)  
-  * More combinations for the RAG system  
+  * More combinations for the RAG system
+  * Visualization 
 * QA quality analysis  
   * E.g., nugget voting with other students, IAA calculation  
   * Ref: In-class exercise (2025/09/10)
