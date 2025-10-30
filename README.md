@@ -8,7 +8,7 @@
 * Part 1 (recommend): 11/7 11:59 PM (EDT) / 11/8 5:59 (CAT)  
 * Part 2 (recommend): 11/14 11:59 PM (EDT) / 11/15 5:59 (CAT)
 * Part 3 & 4 (recommend): 11/21 11:59 PM (EDT) / 11/22 5:59 (CAT)
-* Part 5 (recommend): 11/26 11:59 PM (EDT) / 11/27 5:59 (CAT)
+* Part 5 (recommend): 11/25 11:59 PM (EDT) / 11/26 5:59 (CAT)
 * Part 6 (recommend): 12/3 11:59 PM (EDT) / 12/4 5:59 (CAT)
 * **All (deadline): 12/5 11:59 PM (EDT) / 12/6 5:59 (CAT)**
 
